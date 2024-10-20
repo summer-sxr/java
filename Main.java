@@ -1,3 +1,4 @@
+//选择结构
 import java.util.Scanner;
 
 public class Main {
